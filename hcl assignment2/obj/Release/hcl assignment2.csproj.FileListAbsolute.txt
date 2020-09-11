@@ -1,0 +1,24 @@
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\bin\Release\hcl assignment2.exe.config
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\bin\Release\hcl assignment2.exe.manifest
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\bin\Release\hcl assignment2.application
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\bin\Release\hcl assignment2.exe
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\bin\Release\hcl assignment2.pdb
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form1.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form10.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form2.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form3.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form4.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form5.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form6.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form7.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form8.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Form9.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl_assignment2.Properties.Resources.resources
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.csproj.GenerateResource.cache
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.csproj.CoreCompileInputs.cache
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.TrustInfo.xml
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.exe.manifest
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.application
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.exe
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.pdb
+C:\Users\lijia\source\repos\hcl assignment2\hcl assignment2\obj\Release\hcl assignment2.csprojAssemblyReference.cache
